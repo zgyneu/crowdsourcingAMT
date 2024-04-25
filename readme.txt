@@ -1,0 +1,1 @@
+The optimization of the crowdsourcing task design begins by running the /RunCrowdsourcingAMT/src/RunCrowdsourcing/RunSimulationModelAMT.java file.
